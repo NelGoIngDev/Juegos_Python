@@ -1,7 +1,7 @@
 import random
 option = ('piedra', 'papel', 'tijera')
 
-# Para que el juego copntinue despues de finalizar la ronda.
+# Para que el juego continue despues de finalizar la ronda.
 keep_playing = True
 
 while keep_playing:
